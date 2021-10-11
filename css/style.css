@@ -56,8 +56,17 @@ footer{
     height: 50px;
     background: #2E1D1E 0% 0% no-repeat padding-box;
 }
-
 .header-div{
     display: flex;
     margin-left: 227px;
+}
+.about-font{
+    font-family: 'Abel', sans-serif;
+    font-family: 'Merriweather', serif;
+    line-height: 80%;
+}
+.search{
+    display:flex;
+    float:right;
+    margin:7px;
 }
